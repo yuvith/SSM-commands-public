@@ -1,0 +1,8 @@
+{
+ 'Hostname':'ip-172-31-13-169.ap-south-1.compute.internal', 
+ 'AMI-ID':'ami-00e782930f1c3dbc7', 
+ 'Kernel-Version':'kernel-4.14.114-105.126.amzn2.x86_64
+kernel-4.14.121-109.96.amzn2.x86_64', 
+ 'SSM-version': 'amazon-ssm-agent-2.3.634.0-1.x86_64'
+ 'Instance Type':'t2.micro'
+ }
